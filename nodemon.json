@@ -1,0 +1,7 @@
+{
+    "evn" :{
+        "MONGO_USER": "sudokid",
+        "MONGO_PASSWORD" : "langtutm1411",
+        "MONGO_DB" : "react-event-booking"
+    }
+}
